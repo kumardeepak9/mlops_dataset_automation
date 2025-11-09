@@ -1,4 +1,4 @@
-# dataset_preparation_pipeline.sh
+# Dataset_preparation_pipeline.sh
 
 For this Script I have used CIFAR-10 / CIFAR-100 dataset
 Image (32*32) of animal or vehicle
@@ -14,7 +14,7 @@ Ideal for image classification or segmentation tasks where we need fast, clean, 
 
 ## Features
 - Random **train/val/test split** with custom ratios  
-- **resize** (requires [ImageMagick](https://imagemagick.org))  
+- **Resize** (requires [ImageMagick](https://imagemagick.org))  
 - **Copy** or **move** mode for flexibility  
 - Automatic **filename normalization** e.g.(removes spaces & brackets)  
 - Generates `dataset_summary.txt` with:
