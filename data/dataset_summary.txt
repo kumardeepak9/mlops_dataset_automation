@@ -1,0 +1,8 @@
+Dataset Summary - Generated Sun Nov  9 11:33:15 CET 2025
+
+train:        5 images
+val:        1 images
+test:        2 images
+
+Mean image dimensions:
+N/A
